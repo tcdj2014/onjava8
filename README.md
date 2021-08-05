@@ -59,7 +59,7 @@
 ## 原书资料
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/cover_small.jpg"  alt="cover_small"/>
+<img src="https://raw.githubusercontent.com/tcdj2014/onjava8/master/cover_small.jpg"  alt="cover_small"/>
  </div>
 
 - 作者: Bruce Eckel
